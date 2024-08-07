@@ -1,4 +1,15 @@
 # Design-and-Development-of-Olive-Pitting-and-Grading-Machine
+An opportunity provides an effective mechanism for the purpose of the olives and removing pits from the
+various varieties of olives cultivated in Pakistan. The project mainly focuses on the 3D model & hardware of
+the Grading Mechanism of olives and the 3D CAD model of the pitting machine.75% of olive oil is imported
+annually for domestic consumption.
+The output will be a semi-automated machine that can grade and pit a number of olives at a time and has
+an industrial and commercial approach.
+A grading Mechanism will be used for the partition of different quality olives based on Olives.
+Remove the seeds of olives when placed inside the Olive carrier drums along with the pins with the
+help of two mechanisms.
+i.e 1. Geneva Mechanism 2. Slider Crank Mechanism.
+
 Final Year Project
 — The invention in the technological world in Olive processing industry which increases the demand of the Olive industry. Olive pitting machine is mainly used for crushing and pitting of olives. The destoning of olive is the major area of concern in this project. A prototype is designed known as semi-autonomous machine for the extraction of olive and pitting process. Our Project is mainly focus on the Design of the Olive pitting Machine & Grading Machine. 
 This machine will operate on no of mechanisms such as Geneva and slider crank mechanism. The assembly of machine is designed keeping in mind that all sizes of olives can be placed in one go on which pitting process need to be carried out. The major concern of our project lies in passing olives through fruit grading machine and then after this put that passed Olive into the Olive Pitting Machine whose task is to remove the seeds or pits of olives successfully the without damaging the outer part of the fruit.
